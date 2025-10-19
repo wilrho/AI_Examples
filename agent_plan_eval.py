@@ -1,4 +1,13 @@
 # ==============================================================================
+#  Google Colab - Agent Planning Evaluation
+# ==============================================================================
+# INSTRUCTIONS:
+# 1. Open this in Google Colab (https://colab.research.google.com).
+# 2. Go to the menu: `Runtime` -> `Change runtime type`.
+# 3. Select `T4 GPU` as the Hardware accelerator.
+# 4. Paste this entire script into a single cell and run it.
+# ==============================================================================
+# ==============================================================================
 # Step 1: Install necessary libraries
 # ==============================================================================
 print("Installing required packages... This may take a few minutes.")
